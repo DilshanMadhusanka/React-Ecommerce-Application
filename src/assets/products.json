@@ -1,0 +1,68 @@
+
+
+[
+    {
+        "id": 1,
+        "title": "Adicolor Classics Joggers",
+        "category": "Dress",
+        "price": 63.56,
+        "image": "https://th.bing.com/th/id/OIP.oJpSQafFZnqTkowqvDTMGwHaJd?rs=1&pid=ImgDetMain",
+        "status": "Best Sellers"
+    },
+    {
+        "id": 2,
+        "title": "Adicolor Classics Bag",
+        "category": "Bag",
+        "price": 63.56,
+        "image": "https://static.nike.com/a/images/t_PDP_1280_v1/f_auto,q_auto:eco/aae2cc67-ada2-4013-a33b-fef093659c93/sportswear-futura-luxe-tote-7c904R.png",
+        "status": "Best Sellers"
+    },
+    {
+        "id": 3,
+        "title": "Geometric Print Scarf",
+        "category": "Dress",
+        "price": 53.00,
+        "image": "https://th.bing.com/th/id/OIP.TEkthJ7j7bt8vrmgg84LswHaJc?w=870&h=1110&rs=1&pid=ImgDetMain",
+        "status": "Best Sellers"
+    },
+    {
+        "id": 4,
+        "title": "Yellow Reserved Hoodie",
+        "category": "Hoodies",
+        "price": 350.00,
+        "image": "https://i0.wp.com/razziwp.com/fashion/wp-content/uploads/sites/2/2020/10/m32.webp?fit=670%2C804&ssl=1",
+        "status": "Best Sellers"
+    },
+    {
+        "id": 5,
+        "title": "Basic Dress Green",
+        "category": "Dress",
+        "price": 250.00,
+        "image": "https://th.bing.com/th/id/OIP.KiiNAYAKrgbPBdB_FzMCNgHaJS?rs=1&pid=ImgDetMain",
+        "status": "Best Sellers"
+    },
+    {
+        "id": 6,
+        "title": "Nike Air Zoom Pegasus",
+        "category": "Shoe",
+        "price": 100.00,
+        "image": "https://th.bing.com/th/id/R.212943bd328e32b42c8985570df057f2?rik=tU6pkAAFwzToVg&pid=ImgRaw&r=0",
+        "status": "New Arrival"
+    },
+    {
+        "id": 7,
+        "title": "Nike Repal Miler",
+        "category": "Hoodies",
+        "price": 163.56,
+        "image": "https://th.bing.com/th/id/OIP.igJspT92-SXkpdCx5-tszQHaJQ?rs=1&pid=ImgDetMain",
+        "status": "Best Sellers"
+    },
+    {
+        "id": 8,
+        "title": "Nike Sportswear Future Luxe",
+        "category": "Glasses",
+        "price": 130.00,
+        "image": "https://th.bing.com/th/id/OIP.MwEPgJ5el3GsGMYamvNrIAHaJQ?rs=1&pid=ImgDetMain",
+        "status": "Best Sellers"
+    }
+]
