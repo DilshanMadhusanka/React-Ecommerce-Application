@@ -15,6 +15,7 @@ const SingleProduct = () => {
     console.log(product);
 
     setProducts(product[0]);
+    window.scrollTo({top:0, behavior :'smooth'}) // page eka scrole kranakot smooth ekata scrol wenna 
     
   }, [id]);
 
@@ -23,8 +24,13 @@ const SingleProduct = () => {
     <div>
       <div className="container px-4 mx-auto mt-28 max-w-screen-2xl xl:px-28">
          <div className="p-3 m-auto max-w-7xl">
+          
+          <div className='mt-5'>
+            <a href="/" className="text-gray-500">Home</a>
+            <a href="/shop" className="font-bold text-black"> / Shop</a>
+          </div>
            <div className="mt-6 sm:mt-10">
-             <div className='grid grid-flow-col md:grid-cols-3 sm:grid-cols-2'>
+             <div className='grid grid-cols md:grid-cols-3 sm:grid-cols-2'>
                <div>
                 <img src={image} alt="click karan product eka gannwa ude products state eken" className='w-full' />
                </div>
@@ -54,9 +60,26 @@ const SingleProduct = () => {
                     <input type="number" name='price ' id='price' defaultValue={1} required className="w-full max-w-full px-4 py-3 m-0 mb-1 text-sm font-semibold border border-gray-300 rounded-md outline-none md:py-3 md:px-4 focus:border-red-500" />
                     
                   </div>
+
+                  <div className="w-full my-4 text-left">
+                    <button className="flex items-center justify-center w-full gap-2 px-4 py-3 font-bold text-white duration-150 ease-in-out bg-red-500 border rounded-md brder-red-500 shadow-slate-600 hover:bg-white hover:text-red-500 lg:m-0 md:px-6"><span> Confirmed</span></button>
+                    
+                  </div>
                 </div>
               </div>
              </div>
+           </div>
+
+           <div className="mt-12 text-black/75">
+            <p> Lustrous yet understated. The new evening wear collection
+            exclusively offered at the reopened Giorgio Armani boutique in Los
+            Angeles. Lustrous yet understated. The new evening wear collection
+            exclusively offered at the reopened Giorgio Armani boutique in Los
+            Angeles.</p>
+            <p> Lustrous yet understated. The new evening wear collection
+            exclusively offered at the reopened Giorgio Armani boutique in Los
+            Angeles. 
+            </p>
            </div>
          </div>
       </div>
