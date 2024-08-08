@@ -2,8 +2,10 @@
 
 This is an eCommerce application built using React JS and Tailwind CSS. The application provides functionalities for sorting products, category-wise sorting, and filtering, ensuring a smooth and user-friendly shopping experience.
 
-![Logo]( assets/1.png)
-![Logo]( assets/2.png)
+<p align="center">
+  <img src="assets/1.png" alt="Logo" />
+  <img src="assets/2.png" alt="Logo" />
+</p>
 
 ## Features
 
